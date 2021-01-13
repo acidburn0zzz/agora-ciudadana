@@ -1,4 +1,4 @@
-Django==1.4.3
+Django==1.11.29
 ipdb
 ipython
 south==0.7.6
